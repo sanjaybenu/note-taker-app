@@ -92,7 +92,7 @@ Please refer to section above for the usage.
 
 You can also refer to the following video for a demonstration of the project and learn how to use.
 
-https://youtu.be/G2wp1jZ_pGA
+https://youtu.be/SqNQ1mfVWo0
 
 ## Tests
 
