@@ -35,7 +35,8 @@ Before you can start using the app, please ensure you have package.json in your 
 
 Now run the following command in terminal to install dependencies you need for the project.
 
-npminstall.png
+<img width="636" alt="npminstall" src="https://user-images.githubusercontent.com/105487471/236664945-98c5b098-3c1b-4410-880f-5bb94e4be653.png">
+
 
 
 If you do not find the package.json file, please run the following commands on your terminal.
