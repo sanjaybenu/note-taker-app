@@ -41,11 +41,10 @@ Now run the following command in terminal to install dependencies you need for t
 
 If you do not find the package.json file, please run the following commands on your terminal.
 
-npminit.png
-express.png
-uuid.png
-
-nodemon.png
+<img width="469" alt="Screenshot 2023-05-07 at 5 03 36 pm" src="https://user-images.githubusercontent.com/105487471/236665039-50b6467a-2f75-4466-a5c8-49bb54e7e71a.png">
+<img width="488" alt="Screenshot 2023-05-07 at 5 54 39 pm" src="https://user-images.githubusercontent.com/105487471/236665099-29215f55-e96b-441c-8982-f94798f2704b.png">
+<img width="500" alt="Screenshot 2023-05-07 at 5 04 31 pm" src="https://user-images.githubusercontent.com/105487471/236665110-acb274e5-e45b-4651-b5ed-6e2acceb281c.png">
+<img width="568" alt="Screenshot 2023-05-07 at 5 05 13 pm" src="https://user-images.githubusercontent.com/105487471/236665113-43e56914-779a-4ee9-b274-37ebac9eef09.png">
 
 
 After you have run this command, package-lock.json file and node modules folder will be created. Required dependencies will be added.
