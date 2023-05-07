@@ -1,7 +1,12 @@
+// importing express
 const express = require('express');
+// defining router function
 const router = express.Router();
+//importing local modules
 const dbNotes = require('../db/notes.json')
 const { writeNewNote, removeNote } = require('../helpers/notes');
+
+//routes for reading, adding and deleting notes
 router.get('/notes', (req, res) => {
     res.json(dbNotes);
 });
@@ -16,4 +21,5 @@ router.delete('/notes/:id', (req, res) => {
     res.json();
 });
 
+//exporting routes
 module.exports = router;
