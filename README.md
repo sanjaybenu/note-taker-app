@@ -21,8 +21,7 @@ All the notes will be saved. Note heading will be displayed on the left side of 
 
 ## Screenshots
 
-<img width="1288" alt="Screenshot 2023-05-07 at 8 33 22 pm" src="https://user-images.githubusercontent.com/105487471/236672596-0ef243d7-67ce-4107-9cdb-386b96b4f152.png">![image](https://user-images.githubusercontent.com/105487471/236672721-b0d9b2a9-6417-432b-bf41-03c0141a5e16.png)
-
+<img width="1288" alt="Screenshot 2023-05-07 at 8 33 22 pm" src="https://user-images.githubusercontent.com/105487471/236672596-0ef243d7-67ce-4107-9cdb-386b96b4f152.png">
 
 ## Installation
 Go to the github repository and clone the project into a local directory at your computer.
@@ -59,32 +58,27 @@ Open terminal and open the directory where this code resides. When you are in th
 Go to your browser and type http://localhost:3001 and you will be taken to the following screen
 
 <img width="641" alt="Screenshot 2023-05-07 at 5 59 13 pm" src="https://user-images.githubusercontent.com/105487471/236665342-c72451ed-7452-44af-b82d-fbd4f1107975.png">
-<img width="1288" alt="Screenshot 2023-05-07 at 8 33 22 pm" src="https://user-images.githubusercontent.com/105487471/236672596-0ef243d7-67ce-4107-9cdb-386b96b4f152.png">![image](https://user-images.githubusercontent.com/105487471/236672787-bc168f4f-3078-4dd6-85da-303065d26180.png)
-
+<img width="1288" alt="Screenshot 2023-05-07 at 8 33 22 pm" src="https://user-images.githubusercontent.com/105487471/236672596-0ef243d7-67ce-4107-9cdb-386b96b4f152.png">
 
 Click on getting started and it will take you to the note taking page.
 
-<img width="1614" alt="Screenshot 2023-05-07 at 8 34 00 pm" src="https://user-images.githubusercontent.com/105487471/236672629-764446cc-5c1d-41c9-8719-039685ddc61d.png">![image](https://user-images.githubusercontent.com/105487471/236672810-205105a7-9284-422e-a12d-1ea63e52e656.png)
+<img width="1614" alt="Screenshot 2023-05-07 at 8 34 00 pm" src="https://user-images.githubusercontent.com/105487471/236672629-764446cc-5c1d-41c9-8719-039685ddc61d.png">
 
 
 Add title and description and a save button will show up on the right top corner. Press save button and note will be saved. You can type in and save as many notes you want. You can view headings of your saved notes on the left side of the screen.
 
 
-<img width="1285" alt="Screenshot 2023-05-07 at 8 34 43 pm" src="https://user-images.githubusercontent.com/105487471/236672649-c22e911e-875d-4c2e-bf4f-1885d33b0370.png">![image](https://user-images.githubusercontent.com/105487471/236672832-9bdb0ab2-efc5-4c8d-8688-79fc9a4e3069.png)
+<img width="1285" alt="Screenshot 2023-05-07 at 8 34 43 pm" src="https://user-images.githubusercontent.com/105487471/236672649-c22e911e-875d-4c2e-bf4f-1885d33b0370.png">
 
-<img width="999" alt="Screenshot 2023-05-07 at 8 35 47 pm" src="https://user-images.githubusercontent.com/105487471/236672665-061e8d1b-a960-452c-b4b2-18662bc6f791.png">![image](https://user-images.githubusercontent.com/105487471/236672845-71c67378-ebbf-4584-9840-5969038c2385.png)
+<img width="999" alt="Screenshot 2023-05-07 at 8 35 47 pm" src="https://user-images.githubusercontent.com/105487471/236672665-061e8d1b-a960-452c-b4b2-18662bc6f791.png">
 
 To revisit a note simply click on the note and note will be displayed on the right side window.
 
 <img width="1125" alt="Screenshot 2023-05-07 at 8 35 59 pm" src="https://user-images.githubusercontent.com/105487471/236672680-e271cc52-8280-4d25-9a00-c39148a1b51d.png">
 
-![image](https://user-images.githubusercontent.com/105487471/236672870-08dc2802-0aec-4012-befe-495da7919e2a.png)
-
-
 To write a new note click on the icon on right top corner and you will be taken you will be able to write another note.
 
-<img width="186" alt="Screenshot 2023-05-07 at 8 36 30 pm" src="https://user-images.githubusercontent.com/105487471/236672692-f1cb0c0b-0971-48c9-b49c-674f99d97546.png">![image](https://user-images.githubusercontent.com/105487471/236672887-abc35699-f05b-47bb-a34f-cc690a6a0010.png)
-
+<img width="186" alt="Screenshot 2023-05-07 at 8 36 30 pm" src="https://user-images.githubusercontent.com/105487471/236672692-f1cb0c0b-0971-48c9-b49c-674f99d97546.png">
 
 To go back to the landing page you can click on the note taker on the left top corner.
 
