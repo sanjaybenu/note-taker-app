@@ -20,7 +20,9 @@ All the notes will be saved. Note heading will be displayed on the left side of 
 
 
 ## Screenshots
-![Alt text](./screenshots/main.png) main
+
+<img width="1103" alt="Screenshot 2023-05-07 at 3 55 13 pm" src="https://user-images.githubusercontent.com/105487471/236664685-4d302f3b-6eda-4868-a393-07b3b907fac7.png">
+
 
 ## Installation
 Go to the github repository and clone the project into a local directory at your computer.
