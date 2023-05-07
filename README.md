@@ -54,7 +54,7 @@ After you have run this command, package-lock.json file and node modules folder 
 
 Open terminal and open the directory where this code resides. When you are in the root directory run the following command.
 
-<nodemon>
+<img width="483" alt="Screenshot 2023-05-07 at 5 06 10 pm" src="https://user-images.githubusercontent.com/105487471/236665456-dccab338-8acf-4e06-a2b2-49272f5391a7.png">
 
 Go to your browser and type http://localhost:3001 and you will be taken to the following screen
 
