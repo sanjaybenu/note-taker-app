@@ -71,9 +71,10 @@ Add title and description and a save button will show up on the right top corner
 <img width="1141" alt="Screenshot 2023-05-07 at 3 58 03 pm" src="https://user-images.githubusercontent.com/105487471/236665586-1642f186-4413-4add-b640-c097555fc465.png">
 
 To revisit a note simply click on the note and note will be displayed on the right side window.
-Screenshot
 
-To write a new note click on the plus icon on right top corner and you will be taken you will be able to write another note.
+<img width="896" alt="Screenshot 2023-05-07 at 4 00 52 pm" src="https://user-images.githubusercontent.com/105487471/236665628-2f50f16c-1265-4d9d-b111-952a61d8c21d.png">
+
+To write a new note click on the icon on right top corner and you will be taken you will be able to write another note.
 
 Screenshot
 
