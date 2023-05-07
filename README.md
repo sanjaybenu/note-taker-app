@@ -58,7 +58,8 @@ Open terminal and open the directory where this code resides. When you are in th
 
 Go to your browser and type http://localhost:3001 and you will be taken to the following screen
 
-<img width="729" alt="Screenshot7" src="https://user-images.githubusercontent.com/105487471/233835451-7709df8d-ddc3-4109-807c-2f7edce199c5.png">
+<img width="641" alt="Screenshot 2023-05-07 at 5 59 13 pm" src="https://user-images.githubusercontent.com/105487471/236665342-c72451ed-7452-44af-b82d-fbd4f1107975.png">
+<img width="926" alt="Screenshot 2023-05-07 at 3 55 59 pm" src="https://user-images.githubusercontent.com/105487471/236665375-4f69619e-8468-4bf2-ba60-5ce98a236baf.png">
 
 Click on getting started and it will take you to the note taking page.
 
