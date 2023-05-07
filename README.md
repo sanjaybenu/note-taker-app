@@ -76,14 +76,16 @@ To revisit a note simply click on the note and note will be displayed on the rig
 
 To write a new note click on the icon on right top corner and you will be taken you will be able to write another note.
 
-Screenshot
+<img width="229" alt="Screenshot 2023-05-07 at 4 01 51 pm" src="https://user-images.githubusercontent.com/105487471/236665712-ec86777a-5a28-48ff-9caa-477ec54eab40.png">
 
 To go back to the landing page you can click on the note taker on the left top corner.
 
 
 The notes can also be deleted by simply clicking on the delete button corresponding to the note you want to delete.
 
-Caution: Delete function is not available if you are accessing app through Heroku link
+Caution: Delete function is not available if you are accessing app through Heroku link below.
+
+https://mynote-taker-app.herokuapp.com/
 
 ## Usage
 Please refer to section above for the usage.
