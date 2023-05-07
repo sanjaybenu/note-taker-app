@@ -1,4 +1,4 @@
-# MyNote-Taker_APP
+# MyNote-Taker-APP
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue)
 
@@ -31,7 +31,7 @@ https://github.com/sanjaybenu/note-taker-app
 
 Before you can start using the app, please ensure you have package.json in your folder. 
 
-packagejson.png
+<img width="196" alt="Screenshot 2023-05-07 at 5 03 48 pm" src="https://user-images.githubusercontent.com/105487471/236664801-682c4869-4999-432b-b422-acc9f917e53c.png">
 
 Now run the following command in terminal to install dependencies you need for the project.
 
