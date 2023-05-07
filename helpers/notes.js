@@ -33,7 +33,7 @@ const writeNewNote = (body, notesObj) => {
 
 // revised delete function to current state of notes file and then filter and writeupdated notes
 const removeNote = (id, notesObj) => {
-  fs.readFile(path.join(__dirname, './db/notes.json'), 'utf8', (err, data) => {
+  fs.readFile(path.join(__dirname, '../db/notes.json'), 'utf8', (err, data) => {
     if (err) {
       console.log(err);
       return;
@@ -42,7 +42,7 @@ const removeNote = (id, notesObj) => {
     let notes = JSON.parse(data);
     notes = notesObj.filter(note => note.id !== id);
 
-    fs.writeFile(path.join(__dirname, './db/notes.json'), JSON.stringify(notes, null, 2), (err) => {
+    fs.writeFile(path.join(__dirname, '../db/notes.json'), JSON.stringify(notes, null, 2), (err) => {
       if (err) {
         console.log(err);
         return;
