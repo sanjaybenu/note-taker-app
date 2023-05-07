@@ -49,7 +49,8 @@ If you do not find the package.json file, please run the following commands on y
 
 After you have run this command, package-lock.json file and node modules folder will be created. Required dependencies will be added.
 
-packagelock.png
+
+<img width="300" alt="Screenshot 2023-05-07 at 5 56 50 pm" src="https://user-images.githubusercontent.com/105487471/236665249-f5ede4c2-5d02-4f1d-90dd-8e71655c5c60.png">
 
 Open terminal and open the directory where this code resides. When you are in the root directory run the following command.
 
