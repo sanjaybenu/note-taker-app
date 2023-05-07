@@ -63,7 +63,7 @@ Go to your browser and type http://localhost:3001 and you will be taken to the f
 
 Click on getting started and it will take you to the note taking page.
 
-Screenshot
+<img width="1145" alt="Screenshot 2023-05-07 at 3 56 23 pm" src="https://user-images.githubusercontent.com/105487471/236665519-17741e99-045e-4019-b672-82005bd56b55.png">
 
 Add title and description and a save button will show up on the right top corner. Press save button and note will be saved. You can type in and save as many notes you want. You can view headings of your saved notes on the left side of the screen.
 
