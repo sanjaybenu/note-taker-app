@@ -67,7 +67,8 @@ Click on getting started and it will take you to the note taking page.
 
 Add title and description and a save button will show up on the right top corner. Press save button and note will be saved. You can type in and save as many notes you want. You can view headings of your saved notes on the left side of the screen.
 
-Screenshot
+
+<img width="1141" alt="Screenshot 2023-05-07 at 3 58 03 pm" src="https://user-images.githubusercontent.com/105487471/236665586-1642f186-4413-4add-b640-c097555fc465.png">
 
 To revisit a note simply click on the note and note will be displayed on the right side window.
 Screenshot
