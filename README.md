@@ -21,7 +21,7 @@ All the notes will be saved. Note heading will be displayed on the left side of 
 
 ## Screenshots
 
-<img width="1103" alt="Screenshot 2023-05-07 at 3 55 13 pm" src="https://user-images.githubusercontent.com/105487471/236664685-4d302f3b-6eda-4868-a393-07b3b907fac7.png">
+<img width="1288" alt="Screenshot 2023-05-07 at 8 33 22 pm" src="https://user-images.githubusercontent.com/105487471/236672596-0ef243d7-67ce-4107-9cdb-386b96b4f152.png">![image](https://user-images.githubusercontent.com/105487471/236672721-b0d9b2a9-6417-432b-bf41-03c0141a5e16.png)
 
 
 ## Installation
