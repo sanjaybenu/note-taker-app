@@ -17,7 +17,6 @@ router.post('/notes', (req, res) => {
 });
 
 router.delete('/notes/:id', (req, res) => {
-    const dbNotes = require('../db/notes.json')
     removeNote(req.params.id, dbNotes);
     res.json();
 });

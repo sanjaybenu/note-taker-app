@@ -22,7 +22,6 @@ const writeNewNote = (body, notesObj) => {
 // function to rewrite notes.json file after note removal
 const removeNote = (id, notesObj) => {
     notesObj = notesObj.filter(note => note.id !== id);
-    console.log('notesObj', notesObj)
     fs.writeFile(path.join(__dirname, '../db/notes.json'), JSON.stringify(notesObj, null, 2),(err)=>{
         if (err){
 
